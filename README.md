@@ -22,5 +22,5 @@ Regional Comparison Pie Chart:
 A line chart comparing CO2 emissions across different regions.
 Provides a quick overview of regional contributions to global emissions.
 Insights
-[Insert key insights derived from the analysis here. For example, identify the top three countries with the highest emissions and any notable trends or patterns observed.]
+https://github.com/Mrunalini-Burbure/CO2-Emission-Dataset/blob/main/Dashboard%201%20(3).pdf
 Thank you 
